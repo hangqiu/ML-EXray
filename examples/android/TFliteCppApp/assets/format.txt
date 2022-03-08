@@ -1,0 +1,2 @@
+Model naming format
+[modelname]_[datasetnaem]_([quant]_)[inputsize]

@@ -1,0 +1,13 @@
+0 Waymo Van
+1 LIDAR
+2 Regular Car
+3 Non-Waymo Self-driving Car
+4 Person
+5 truck
+6 Asphalt Compactor
+7 Construction Sign
+8 Construction Worker
+9 Delta Loader
+10 Excavator
+11 Goods Truck
+12 Traffic Cone

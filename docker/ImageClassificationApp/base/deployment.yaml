@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: mlexray
+    env: qa
+  name: mlexray
+  namespace: mlexray
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlexray
+  template:
+    metadata:
+      labels:
+        app: mlexray
+        env: qa
+    spec:
+      containers:
+      - image: hangqiu/k8-classifier
+        name: k8-classifier
+        ports:
+        - containerPort: 5000
+          protocol: TCP

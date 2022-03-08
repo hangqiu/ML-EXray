@@ -1,0 +1,8 @@
+opencv-python
+tensorflow_datasets
+tensorflow_hub
+tensorflow_io
+ipython
+matplotlib
+pandas
+numpy

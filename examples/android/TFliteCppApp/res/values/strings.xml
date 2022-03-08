@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EdgeMLInsight</string>
+    <string name="model_name"> </string>
+    <string name="model_text">Model</string>
+    <string name="data_text">Data</string>
+    <string name="data_src_text">DataSrc</string>
+</resources>
