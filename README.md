@@ -149,7 +149,7 @@ Configure the app for running options
 * Normalization range: [0.0,1.0], [-1.0,1.0]
 * Rotation and number of threads
 
-<img src="https://github.com/hangqiu/ML-EXray/blob/master/docs/imgs/app_screenshot.png" width="300">
+<img src="https://github.com/hangqiu/ML-EXray/blob/main/docs/imgs/app_screenshot.png" width="300">
 
 
 Cloud connection currently disabled for public tests.
