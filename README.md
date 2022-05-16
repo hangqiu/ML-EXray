@@ -54,7 +54,7 @@ potential issues and bugs in an edge ML pipeline. To this end, we provide the fo
 
 ### Tutorial Index
 * [Try the app and get the logs](#an-android-image-classifier-app)
-* [Debug model quantization issues](#debug-quantization-issues) ([colab](https://colab.research.google.com/drive/1K6MqVbXg8PPuEo9CUNbjHbGjA5knjiDr?usp=sharing))
+* [Debug model quantization issues](#debug-quantization-issues) ([colab](https://colab.research.google.com/drive/16353Cw-1O7Hn1iOyIA8NNjhzRNJtI-VT?usp=sharing))
 * [Visualize preprocessing bug impact](#pre-processing-bugs-and-impact-on-accuracy)
 * [Evaluate per-layer latency on heterogeneous hardward](#evaluate-per-layer-latency)
 
@@ -149,7 +149,7 @@ Configure the app for running options
 * Normalization range: [0.0,1.0], [-1.0,1.0]
 * Rotation and number of threads
 
-<img src="https://github.com/hangqiu/ML-EXray/blob/master/docs/imgs/app_screenshot.png" width="300">
+<img src="https://github.com/hangqiu/ML-EXray/blob/main/docs/imgs/app_screenshot.png" width="300">
 
 
 Cloud connection currently disabled for public tests.
