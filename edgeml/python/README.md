@@ -26,7 +26,7 @@ verify per-layer-output. Finally, users can also define custom assertions to val
 
 The following shows an example usage of comparing the per-layer output between a *quantized* versus an *unquantized*
 model. To run the full example, please see the
-example [colab](https://colab.research.google.com/drive/1K6MqVbXg8PPuEo9CUNbjHbGjA5knjiDr?usp=sharing).
+example [colab](https://colab.research.google.com/drive/16353Cw-1O7Hn1iOyIA8NNjhzRNJtI-VT?usp=sharing).
 
 ### a) Logging ML inference
 
