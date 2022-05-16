@@ -243,7 +243,7 @@ python3 scripts/analysis/mobilenetv3_quant_refop.py
 ```
 
 ### Using Python API
-For a full tutorial, please check the [colab](https://colab.research.google.com/drive/1K6MqVbXg8PPuEo9CUNbjHbGjA5knjiDr?usp=sharing)
+For a full tutorial, please check the [colab](https://colab.research.google.com/drive/16353Cw-1O7Hn1iOyIA8NNjhzRNJtI-VT?usp=sharing)
 
 To play back the same dataset using python API, please check the [python API documentation](edgeml/python/README.md)
 
