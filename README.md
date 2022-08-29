@@ -267,12 +267,15 @@ To disable logging, specify the argument of EdgeMLMonitor_Native with no_logging
 
 If ML-EXray helps your edge ML deployment, please cite:
 ```bibtex
-@misc{mlexray,
-      title={ML-EXray: Visibility into ML Deployment on the Edge}, 
-      author={Hang Qiu and Ioanna Vavelidou and Jian Li and Evgenya Pergament and Pete Warden and Sandeep Chinchali and Zain Asgar and Sachin Katti},
-      year={2021},
-      eprint={2111.04779},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC}
+@inproceedings{mlexray,
+ author = {Qiu, Hang and Vavelidou, Ioanna and Li, Jian and Pergament, Evgenya and Warden, Pete and Chinchali, Sandeep and Asgar, Zain and Katti, Sachin},
+ booktitle = {Proceedings of Machine Learning and Systems},
+ editor = {D. Marculescu and Y. Chi and C. Wu},
+ pages = {337--351},
+ title = {ML-EXray: Visibility into ML Deployment on the Edge},
+ url = {https://proceedings.mlsys.org/paper/2022/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf},
+ volume = {4},
+ year = {2022}
 }
+
 ```
